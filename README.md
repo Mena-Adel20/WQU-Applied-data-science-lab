@@ -7,7 +7,7 @@ We'll work with a dataset of homes for sale in Brazil. Your goal is to determine
 Predicting Apartment Prices in Mexico City
 This project include:
 <ol>
-<li>
+
 <li>create a linear regression model using the scikit-learn library.</li>
 <li>build a data pipeline for imputing missing values and encoding categorical features.</li>
 <li>improve model performance by reducing overfitting.</li>
