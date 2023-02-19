@@ -5,7 +5,10 @@ You'll work through the lessons at your own pace, following my code-along videos
 We'll work with a dataset of homes for sale in Brazil. Your goal is to determine if there are regional differences in the real estate market. Also, you will look at southern Brazil to see if there is a relationship between home size and price.
 ## lab 2
 Predicting Apartment Prices in Mexico City
-This project include 
-1-create a linear regression model using the scikit-learn library.
-2-build a data pipeline for imputing missing values and encoding categorical features.
-3-improve model performance by reducing overfitting.
+This project include:
+<ol>
+<li>
+<li>create a linear regression model using the scikit-learn library.</li>
+<li>build a data pipeline for imputing missing values and encoding categorical features.</li>
+<li>improve model performance by reducing overfitting.</li>
+</ol>
