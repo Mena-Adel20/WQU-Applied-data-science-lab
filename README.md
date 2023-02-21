@@ -20,4 +20,4 @@ in this project i learn:
 <li>How to prepare time series data for analysis.</li>
 <li>How to build an autoregression model.</li>
 <li>How to improve a model by tuning its hyperparameters.</li>
-<\ol>
+</ol>
