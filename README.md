@@ -12,3 +12,12 @@ This project include:
 <li>build a data pipeline for imputing missing values and encoding categorical features.</li>
 <li>improve model performance by reducing overfitting.</li>
 </ol>
+
+## lab 3
+in this project i learn:
+<ol>
+<li>How to get data by querying a MongoDB database.</li>
+<li>How to prepare time series data for analysis.</li>
+<li>How to build an autoregression model.</li>
+<li>How to improve a model by tuning its hyperparameters.</li>
+<\ol>
