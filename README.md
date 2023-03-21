@@ -21,3 +21,14 @@ in this project i learn:
 <li>How to build an autoregression model.</li>
 <li>How to improve a model by tuning its hyperparameters.</li>
 </ol>
+
+
+## lab 4
+in this project i learn:
+<ol>
+<li>How to get data by querying a SQL database.</li>
+<li>How to build a logistic regression model for classification.</li>
+<li>How to build a decision tree model for classification.</li>
+</ol>
+
+
